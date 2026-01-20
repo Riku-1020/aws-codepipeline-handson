@@ -1,1 +1,1 @@
-# aws-ecs-handson
+# aws-codepipeline-handson
